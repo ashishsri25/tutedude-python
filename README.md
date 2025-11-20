@@ -1,4 +1,2 @@
 # tutedude-python
-Assignment 1:
-    Mathematical operations
-    Personalized greeting
+Assignment 1: Mathematical operations and Personalized greeting
